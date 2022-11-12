@@ -1,5 +1,6 @@
 Recommended to run in virtual environment
-Activate virtual environment using (in the parent directory)
+
+Activate virtual environment using (in the parent directory)\n
 $Scripts\activate
 
 please do run:
